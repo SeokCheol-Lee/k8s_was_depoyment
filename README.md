@@ -3,6 +3,11 @@
 
 `Spring Boot` 애플리케이션을 `Docker` 컨테이너로 패키징하고, 이를 `Kubernetes`(k8s) 환경에서 다중 인스턴스(Pod 3개)로 배포하여 외부 통신이 가능하도록 하는 것을 목표로 합니다.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a4e74c15-e5d5-4fe0-a2af-21996d6dfe4f">
+</p>
+
+
 ## ⚙️진행 방법
 
 ### 1. Spring Boot 애플리케이션 준비
