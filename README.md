@@ -162,6 +162,7 @@ Spring Boot 애플리케이션을 컨테이너로 패키징하여 Kubernetes 클
 Kubernetes가 springapp이라는 Docker 이미지를 가져오려고 시도했으나 실패한 것을 의미합니다. 주요 원인은 해당 이미지가 Docker Hub 또는 사용 중인 이미지 레지스트리에 존재하지 않거나, 이미지에 접근할 수 없는 상태일 때 발생합니다
 
 **해결방법**
+
 DockerHub에 실행시킬 이미지를 올려서 받게 합니다.
 #### **Docker Hub 로그인**
 
